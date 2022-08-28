@@ -1,3 +1,3 @@
 # learn how to use git
 
-test megre comit
+main commit 1
